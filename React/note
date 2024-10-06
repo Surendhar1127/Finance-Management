@@ -1,0 +1,14 @@
+ // <Router>
+    //   <Header />
+    //   {/* <SideMenu /> */}
+    //   <Side/>
+    //   <div>
+    //   <Routes>
+    //     <Route path="/" element={<Navigate to="/dashboard" />} /> {/* Redirect root to dashboard */}
+    //     <Route path="/dashboard" element={<Dashboard />} />
+    //     <Route path="/transactions" element={<Transactions />} />
+    //     <Route path="/savings-goal" element={<SavingsGoal />} />
+    //     <Route path="/investment" element={<Investment />} />
+    //   </Routes>
+    //   </div>
+    // </Router>
